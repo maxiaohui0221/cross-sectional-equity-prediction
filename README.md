@@ -1,4 +1,4 @@
-# Cross-sectional-equity-prediction
+# Cross sectional equity prediction
 
 End-to-end machine learning project using Compustat and CRSP data to study whether firm fundamentals and recent market behavior can predict next-quarter stock outperformance.
 
